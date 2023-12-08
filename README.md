@@ -7,12 +7,11 @@ This project is a research that introduces and assesses four analytical models -
 This file contains codes which builds a model that forecasts the Industrial Production Trends in Algeria, given yearly General Index from 1970 to 2020.
 
 To achieve this, the following tasks are performed:
-
-Importing libraries & Dataset
-Exploratory Data Analysis (EDA)
-Method 1: Forecasting using Linear Regression
-Method 2: Forecasting using Exponential Smoothing
-Method 3: Forecasting using ARIMA
-Method 4: Forecasting using SARIMA
+- Importing libraries & Dataset
+- Exploratory Data Analysis (EDA)
+- Method 1: Forecasting using Linear Regression
+- Method 2: Forecasting using Exponential Smoothing
+- Method 3: Forecasting using ARIMA
+- Method 4: Forecasting using SARIMA
 
 
