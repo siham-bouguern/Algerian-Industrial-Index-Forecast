@@ -1,3 +1,6 @@
-# Algerian-Industrial-Index-Forecast
+# Forecasting Industrial Production Trends in Algeria
+![image](https://github.com/siham-bouguern/Algerian-Industrial-Index-Forecast/assets/140173145/cd3c39c3-f104-4257-966f-b38492d5ffd4)
+
 This project is a research that introduces and assesses four analytical models - namely, Linear Regression, Exponential Smoothing, ARIMA, and SARIMA - in the context of predicting Algeria's General Industrial Index. In this study, these four models are applied to assess and predict Algeria's general industrial production for the forthcoming decade (2021–2030) by utilizing a 50-years dataset provided by The National Office of Statistics (NOS).
+
 
