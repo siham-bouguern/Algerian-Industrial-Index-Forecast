@@ -6,6 +6,7 @@ This project is a research that introduces and assesses four analytical models -
 
 This file contains codes which builds a model that forecasts the Industrial Production Trends in Algeria, given yearly General Index from 1970 to 2020.
 
+## Analysis Steps
 To achieve this, the following tasks are performed:
 - Importing libraries & Dataset
 - Exploratory Data Analysis (EDA)
@@ -14,4 +15,6 @@ To achieve this, the following tasks are performed:
 - Method 3: Forecasting using ARIMA
 - Method 4: Forecasting using SARIMA
 
-
+## Files Included
+- [.ipynb Notebook](https://github.com/siham-bouguern/Algerian-Industrial-Index-Forecast/blob/main/Algerian%20Industrial%20Index%20Forecast.ipynb) 
+- [Dataset](https://github.com/siham-bouguern/Algerian-Industrial-Index-Forecast/blob/main/Dataset_General%20Index%20of%20Industrial%20Production%20in%20Algeria.csv)
